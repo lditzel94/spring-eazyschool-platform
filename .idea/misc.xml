@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/example1/pom.xml" />
+        <option value="$PROJECT_DIR$/example2/pom.xml" />
+        <option value="$PROJECT_DIR$/example3/pom.xml" />
+        <option value="$PROJECT_DIR$/example4/pom.xml" />
+        <option value="$PROJECT_DIR$/example5/pom.xml" />
+        <option value="$PROJECT_DIR$/example6/pom.xml" />
+        <option value="$PROJECT_DIR$/example7/pom.xml" />
+        <option value="$PROJECT_DIR$/example8/pom.xml" />
+        <option value="$PROJECT_DIR$/example9/pom.xml" />
+        <option value="$PROJECT_DIR$/example_10/pom.xml" />
+        <option value="$PROJECT_DIR$/example_11/pom.xml" />
+        <option value="$PROJECT_DIR$/example_12/pom.xml" />
+        <option value="$PROJECT_DIR$/example_13/pom.xml" />
+        <option value="$PROJECT_DIR$/example_14/pom.xml" />
+        <option value="$PROJECT_DIR$/example_15/pom.xml" />
+        <option value="$PROJECT_DIR$/example_16/pom.xml" />
+        <option value="$PROJECT_DIR$/example_17/pom.xml" />
+        <option value="$PROJECT_DIR$/example_18/pom.xml" />
+        <option value="$PROJECT_DIR$/example_19/pom.xml" />
+        <option value="$PROJECT_DIR$/example_20/pom.xml" />
+        <option value="$PROJECT_DIR$/example_21/pom.xml" />
+        <option value="$PROJECT_DIR$/example_22/pom.xml" />
+        <option value="$PROJECT_DIR$/example_23/pom.xml" />
+        <option value="$PROJECT_DIR$/example_24/pom.xml" />
+        <option value="$PROJECT_DIR$/example_25/pom.xml" />
+        <option value="$PROJECT_DIR$/example_26/pom.xml" />
+        <option value="$PROJECT_DIR$/example_27/pom.xml" />
+        <option value="$PROJECT_DIR$/example_28/pom.xml" />
+        <option value="$PROJECT_DIR$/example_29/pom.xml" />
+        <option value="$PROJECT_DIR$/example_30/pom.xml" />
+        <option value="$PROJECT_DIR$/example_31/pom.xml" />
+        <option value="$PROJECT_DIR$/example_32/pom.xml" />
+        <option value="$PROJECT_DIR$/example_33/pom.xml" />
+        <option value="$PROJECT_DIR$/example_34/pom.xml" />
+        <option value="$PROJECT_DIR$/example_35/pom.xml" />
+        <option value="$PROJECT_DIR$/example_36/pom.xml" />
+        <option value="$PROJECT_DIR$/example_37/pom.xml" />
+        <option value="$PROJECT_DIR$/example_38/pom.xml" />
+        <option value="$PROJECT_DIR$/example_39/pom.xml" />
+        <option value="$PROJECT_DIR$/example_40/pom.xml" />
+        <option value="$PROJECT_DIR$/example_41/pom.xml" />
+        <option value="$PROJECT_DIR$/example_42/pom.xml" />
+        <option value="$PROJECT_DIR$/example_43/pom.xml" />
+        <option value="$PROJECT_DIR$/example_44/pom.xml" />
+        <option value="$PROJECT_DIR$/example_45/pom.xml" />
+        <option value="$PROJECT_DIR$/example_46/pom.xml" />
+        <option value="$PROJECT_DIR$/example_47/pom.xml" />
+        <option value="$PROJECT_DIR$/example_48/pom.xml" />
+        <option value="$PROJECT_DIR$/example_49/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_18" default="true" project-jdk-name="openjdk-18" project-jdk-type="JavaSDK" />
+  <component name="ProjectType">
+    <option name="id" value="jpab" />
+  </component>
+</project>

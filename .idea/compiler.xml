@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="example_23" />
+        <module name="example_24" />
+        <module name="example_21" />
+        <module name="example_22" />
+        <module name="example_20" />
+        <module name="example_29" />
+        <module name="example_27" />
+        <module name="example_28" />
+        <module name="example_25" />
+        <module name="example_26" />
+        <module name="example_12" />
+        <module name="example_13" />
+        <module name="example_10" />
+        <module name="example_11" />
+        <module name="example_18" />
+        <module name="example_19" />
+        <module name="example_16" />
+        <module name="example_17" />
+        <module name="example_14" />
+        <module name="example_15" />
+        <module name="example_45" />
+        <module name="example_46" />
+        <module name="example_43" />
+        <module name="example_44" />
+        <module name="example_41" />
+        <module name="example_42" />
+        <module name="example_40" />
+        <module name="example_49" />
+        <module name="example_47" />
+        <module name="example_48" />
+        <module name="example7" />
+        <module name="example_34" />
+        <module name="example6" />
+        <module name="example_35" />
+        <module name="example9" />
+        <module name="example_32" />
+        <module name="example8" />
+        <module name="example_33" />
+        <module name="example3" />
+        <module name="example_30" />
+        <module name="example2" />
+        <module name="example_31" />
+        <module name="example5" />
+        <module name="example4" />
+        <module name="example1" />
+        <module name="example_38" />
+        <module name="example_39" />
+        <module name="example_36" />
+        <module name="example_37" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="example1" target="15" />
+      <module name="example2" target="15" />
+      <module name="example3" target="15" />
+      <module name="example4" target="15" />
+      <module name="example5" target="15" />
+      <module name="example6" target="15" />
+      <module name="example7" target="15" />
+      <module name="example8" target="15" />
+      <module name="example9" target="15" />
+      <module name="example_10" target="15" />
+      <module name="example_11" target="15" />
+      <module name="example_12" target="15" />
+      <module name="example_13" target="15" />
+      <module name="example_14" target="15" />
+      <module name="example_15" target="15" />
+      <module name="example_16" target="15" />
+      <module name="example_17" target="15" />
+      <module name="example_18" target="11" />
+      <module name="example_19" target="11" />
+      <module name="example_20" target="11" />
+      <module name="example_21" target="11" />
+      <module name="example_22" target="11" />
+      <module name="example_23" target="11" />
+      <module name="example_24" target="11" />
+      <module name="example_25" target="11" />
+      <module name="example_26" target="11" />
+      <module name="example_27" target="11" />
+      <module name="example_28" target="11" />
+      <module name="example_29" target="11" />
+      <module name="example_30" target="11" />
+      <module name="example_31" target="11" />
+      <module name="example_32" target="11" />
+      <module name="example_33" target="11" />
+      <module name="example_34" target="11" />
+      <module name="example_35" target="11" />
+      <module name="example_36" target="11" />
+      <module name="example_37" target="11" />
+      <module name="example_38" target="11" />
+      <module name="example_39" target="11" />
+      <module name="example_40" target="11" />
+      <module name="example_41" target="11" />
+      <module name="example_42" target="11" />
+      <module name="example_43" target="11" />
+      <module name="example_44" target="11" />
+      <module name="example_45" target="11" />
+      <module name="example_46" target="11" />
+      <module name="example_47" target="11" />
+      <module name="example_48" target="11" />
+      <module name="example_49" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="example_18" options="-parameters" />
+      <module name="example_19" options="-parameters" />
+      <module name="example_20" options="-parameters" />
+      <module name="example_21" options="-parameters" />
+      <module name="example_22" options="-parameters" />
+      <module name="example_23" options="-parameters" />
+      <module name="example_24" options="-parameters" />
+      <module name="example_25" options="-parameters" />
+      <module name="example_26" options="-parameters" />
+      <module name="example_27" options="-parameters" />
+      <module name="example_28" options="-parameters" />
+      <module name="example_29" options="-parameters" />
+      <module name="example_30" options="-parameters" />
+      <module name="example_31" options="-parameters" />
+      <module name="example_32" options="-parameters" />
+      <module name="example_33" options="-parameters" />
+      <module name="example_34" options="-parameters" />
+      <module name="example_35" options="-parameters" />
+      <module name="example_36" options="-parameters" />
+      <module name="example_37" options="-parameters" />
+      <module name="example_38" options="-parameters" />
+      <module name="example_39" options="-parameters" />
+      <module name="example_40" options="-parameters" />
+      <module name="example_41" options="-parameters" />
+      <module name="example_42" options="-parameters" />
+      <module name="example_43" options="-parameters" />
+      <module name="example_44" options="-parameters" />
+      <module name="example_45" options="-parameters" />
+      <module name="example_46" options="-parameters" />
+      <module name="example_47" options="-parameters" />
+      <module name="example_48" options="-parameters" />
+      <module name="example_49" options="-parameters" />
+    </option>
+  </component>
+</project>
